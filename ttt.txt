@@ -1,0 +1,28 @@
+# aws
+AWS_ACCESS_KEY_ID=AKIAWDF4LM2U7WLE456A
+AWS_SECRET_ACCESS_KEY=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
+AWS_STORAGE_BUCKET_NAME=recustomer-dev
+AWS_S3_CUSTOM_DOMAIN=d33hkf8ad2kzj4.cloudfront.net
+AWS_S3_REGION_NAME=ap-northeast-1
+AWS_REGION_LOG=ap-northeast-1
+
+# mysql
+MYSQL_ENGINE=django.db.backends.mysql
+MYSQL_HOST=radio_mysql
+MYSQL_DATABASE=radio_web
+MYSQL_USER=admin
+MYSQL_PASSWORD=admin
+MYSQL_ROOT_PASSWORD=admin
+MYSQL_PORT=3306
+MYSQL_ROOT_USER=root
+
+ADMIN_USER=admin
+PASS_USER=admin
+
+# redis
+REDIS_HOST=recustomer_redis
+REDIS_PORT=6379
+REDIS_DB=0
+REDIS_PASSWORD=123456
+
+HOST=http://localhost:8000
